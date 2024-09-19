@@ -1,0 +1,20 @@
+Web Developement Boot Camp
+Section - 1
+1. How does the Internet Work ??
+> Servers & Client
+> client - Internet Service Provider - DNS(Domain Name System Server){Based on name it lookups the IP address}
+> for every sys connected to inernet having an IP address
+> IP address
+
+2. How do Websites Actually Work ?
+> Client - internet - DNS Server - website(HTML, CSS, JS)
+> HTML - Code-skeleton [structure, elements]
+> CSS - Styles[design]
+> JavaScript - Functionality
+
+3. DON'T COPYYY & DON'T SKIPPP MASTERY(Practice Practice Practice)
+
+4. CORNELL NOTE TAKING SYSTEM
+
+5. You're Stuck ??
+
