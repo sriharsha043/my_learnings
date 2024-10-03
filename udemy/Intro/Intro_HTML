@@ -1,0 +1,33 @@
+HTML - HyperText Markup Language Heading - {
+<h1>Heading Element</h1>
+h1 - higher priority . . h6 - lower priority based on your req(size will differ)
+}
+<p>Para Element</p>
+
+void elements - self closing tags
+<hr />
+<br />
+{<!-- Horizontal line -->} {<!-- break the line -->}
+<h3>Unodered List</h3>
+<ul>
+  <li>python</li>
+  <li>React</li>
+</ul>
+
+<h3>Ordered List</h3>
+<ol>
+  <li>SQL</li>
+  <li>Express JS</li>
+  <p>Nested List</p>
+  <ul>
+    <li>imports</li>
+    <ul>
+      <li>Named imports</li>
+    </ul>
+    <li>exports</li>
+    <ul>
+      <li>named exports</li>
+      <li>default exports</li>
+    </ul>
+  </ul>
+</ol>

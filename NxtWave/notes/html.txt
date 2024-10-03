@@ -1,0 +1,46 @@
+Basic structure of the HTML Code
+
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+    Your code Goes here
+</body>
+</html>
+
+HTML Elements => {
+    <h1>
+    <p>
+    <button>
+    <div>
+}
+
+CSS Properties{
+    syntax: selector {
+        property1: value1;
+        property2: value2;
+    }
+
+    text-align: left center right
+    color: colors, hexadecimal values, rgb values
+    background-color: colors, hexadecimal values, rgb values
+    font-family: "Roboto"\"Caveat"\"Lobster"\"Bree Serif"\"Playfair Display"\"Monoton" etc..,
+    font-size: 56px
+    font-style: normal, italic, oblique
+    height: 200px/100%/30vh
+    width: 350px/100%/20vw
+    background-image: url("link of the image")
+    background-size:cover
+    border-width: 4px{
+        border-style: **mandatory to get all other props
+        border-color:
+        border-width:
+    }
+    border-top-left-radius
+    border-top-right-radius
+    border-bottom-left-radius
+    border-bottom-right-radius
+    
+}
+
+
